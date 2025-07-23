@@ -111,22 +111,18 @@ print("After /= 4:", counter)
 # EXERCISES
 # ===============================
 
-# Exercise 1: Calculator
-# Get two numbers from the user and perform all arithmetic operations
-# Remember to convert string input to numbers!
-
-# Exercise 2: Temperature converter
+# Exercise 1: Temperature converter
 # Get temperature in Celsius from user
 # Convert to Fahrenheit using formula: F = C * 9/5 + 32
 # Print both temperatures with descriptive text
 
-# Exercise 3: Circle calculator
+# Exercise 2: Circle calculator
 # Get radius from user
 # Calculate and print:
 # - Area (π * r²) - use 3.14159 for π
 # - Circumference (2 * π * r)
 
-# Exercise 4: Age checker
+# Exercise 3: Age checker
 # Get user's age
 # Check if they are:
 # - A minor (under 18)
